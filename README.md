@@ -31,4 +31,4 @@ Unlike large shells like Bash or Zsh, `cshell` keeps things minimal.
 
 - Fuckall
 
-<img src="https://www.vecteezy.com/free-png/cartoon-sea-shells">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/012/376/007/small_2x/shellfish-filled-clipart-free-png.png">
