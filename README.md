@@ -12,6 +12,8 @@ A tiny Unix shell written in C.
 
 ---
 
+<img src="https://static.vecteezy.com/system/resources/thumbnails/012/376/007/small_2x/shellfish-filled-clipart-free-png.png">
+
 ## About
 
 `cshell` is a beginner-friendly shell project built in C to learn how Unix shells work internally.
@@ -31,4 +33,3 @@ Unlike large shells like Bash or Zsh, `cshell` keeps things minimal.
 
 - Fuckall
 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/012/376/007/small_2x/shellfish-filled-clipart-free-png.png">
